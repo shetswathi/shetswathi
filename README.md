@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋 I'm Swathi S Shet
 
-<!--
-**shetswathi/shetswathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Web Development Enthusiast  
+💻 MERN Stack Developer  
+🚀 Passionate about building Full Stack Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 🌱 Currently learning Advanced MERN Stack
+- 🔐 Built Employee Management System with Authentication
+- 📊 Experienced in Dashboard & CRUD Applications
+- 💡 Interested in Full Stack Development
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- React.js
+- HTML
+- CSS
+- Bootstrap
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+- Mongoose
+
+### 🔧 Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🏢 Employee Management System
+Full Stack MERN Application  
+✔ Authentication (JWT)  
+✔ CRUD Operations  
+✔ Attendance Management  
+✔ Dashboard Analytics  
+
+🔗 [View Project Repository](https://github.com/your-username/employee-management-system)
+
+---
+
+### 📝 To-Do List
+Simple task management app using JavaScript.
+
+---
+
+### 🌐 Portfolio Website
+Personal portfolio website built with HTML, CSS & Bootstrap.
+
+---
+
+## 📊 GitHub Stats
+
+![Swathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: your-email@gmail.com  
+📱 Contact: Your Number  
