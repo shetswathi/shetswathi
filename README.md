@@ -48,7 +48,7 @@ Full Stack MERN Application
 ✔ Attendance Management  
 ✔ Dashboard Analytics  
 
-🔗 [View Project Repository](https://github.com/your-username/employee-management-system)
+🔗 [View Project Repository](https://github.com/shetswathi/employee-management-system)
 
 ---
 
@@ -62,13 +62,7 @@ Personal portfolio website built with HTML, CSS & Bootstrap.
 
 ---
 
-## 📊 GitHub Stats
-
-![Swathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
-📧 Email: your-email@gmail.com  
-📱 Contact: Your Number  
+📧 Email: swathisshet6@gmail.com  
+
